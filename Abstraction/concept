@@ -1,0 +1,2 @@
+in abstraction we try to only show the data which is required by the user all other data we make it private 
+in polymorphysm we try to make all the data private so don't confuse the abstraction with polymorphysm

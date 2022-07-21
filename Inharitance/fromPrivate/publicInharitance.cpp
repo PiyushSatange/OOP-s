@@ -1,0 +1,1 @@
+//we can't access private memeber outside the main class not even in the child class
